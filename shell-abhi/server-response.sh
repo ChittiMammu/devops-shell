@@ -1,0 +1,2 @@
+#! bin/bash
+curl -Is https://facebook.com | head -n 1 | grep "200" > /dev/null && echo "Server is up" || echo "Server is down"

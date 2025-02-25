@@ -1,0 +1,36 @@
+What is DevOps?
+
+DevOps is a process or culture ,where it helps organizations to deliver the 
+product/software/application ontime with less defects.
+
+We are integrating with multiple tool to achive the automation, 
+make sure our application is tested and maintained well,quality
+fast releases ect....
+
+
+Why DevOps?
+
+10 years ago there are many teams are involving into the process 
+of delivering the application,servers creation , configurations.
+Teams like system admin, server admins,Build and release teams like these many 
+teams are involved but now single devops team is handelling everything, after 
+building the application from there to deployment and delivery.
+
+Every organization is adapted this process to release their applications 
+fast with less defects.So that there application has high reliability and more 
+Efficient.
+
+Introduce as a devops engineer?
+
+Hi, my name is M mamatha,I’m a DevOps Engineer.
+I specialize in streamlining the software development and IT operations processes 
+to make sure that teams can work efficiently and deliver high-quality software faster.
+ 
+I focus on automating infrastructure, continuous integration/continuous 
+deployment (CI/CD) pipelines, and ensuring smooth collaboration between development 
+and operations teams. My goal is to improve system reliability, scalability, 
+and performance while reducing manual work and downtime.
+
+I have experience with tools like [mention any relevant tools you use, like Docker, 
+Kubernetes, Jenkins, Terraform, Ansible, etc.], and I'm passionate about implementing 
+best practices for automation, cloud infrastructure, and monitoring
