@@ -8,7 +8,7 @@
 
 echo "Enter the any number"
 read number
-if $number is divided with %2
+if (( $number % 2 == 0))
 then
 echo " the number: $number is even number"
 else
