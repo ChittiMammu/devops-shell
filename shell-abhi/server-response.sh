@@ -10,4 +10,4 @@
 #     echo "Server is down"
 # fi
 
-ping -c 3 https://facebook.com
+ping -c 3 facebook.com
