@@ -16,8 +16,8 @@
 # fi
 
 echo "Enter the list of numbers"
-read -p 
-if (( $@ % 2 == 0))
+read -p numbers
+if (( $(numbers[@]) % 2 == 0))
 then
 echo " the even numbers are: "
 else
