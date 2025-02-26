@@ -10,4 +10,9 @@
 #     echo "Server is down"
 # fi
 
-ping -c 3 facebook.com
+if ping -c 3 facebook.com 
+ then
+    echo "Facebook server is reachable."
+else
+    echo "Failed to reach Facebook server."
+fi
