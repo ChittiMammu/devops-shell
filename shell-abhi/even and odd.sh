@@ -6,11 +6,20 @@
 # if yes number is even
 # else number os odd
 
-echo "Enter the any number"
-read number
-if (( $number % 2 == 0))
+# echo "Enter the any number"
+# read number
+# if (( $number % 2 == 0))
+# then
+# echo " the number: $number is even number"
+# else
+# echo " the number: $number is odd number"
+# fi
+
+echo "Enter the list of numbers"
+read -p 
+if (( $@ % 2 == 0))
 then
-echo " the number: $number is even number"
+echo " the even numbers are: "
 else
-echo " the number: $number is odd number"
+echo " the odd numbers are:"
 fi
