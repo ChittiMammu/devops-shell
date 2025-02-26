@@ -7,4 +7,4 @@
 # else number os odd
 
 echo "Enter the any number"
-read number 
+read 
