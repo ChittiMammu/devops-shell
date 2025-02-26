@@ -16,10 +16,13 @@
 # fi
 
 echo "Enter the list of numbers"
-read -p numbers
-if (( $(numbers[@]) % 2 == 0))
+read -p numbers 
+for number in {$(numbers[@]}
+do
+if (( $numbers % 2 == 0))
 then
 echo " the even numbers are: "
 else
 echo " the odd numbers are:"
 fi
+done
