@@ -7,4 +7,10 @@
 # else number os odd
 
 echo "Enter the any number"
-read 
+read number
+if $number is divided with %2
+then
+echo " the number: $number is even number"
+else
+echo " the number: $number is odd number"
+fi
